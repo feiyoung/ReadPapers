@@ -1,0 +1,95 @@
+@article{hl00,
+author = {Hunter, D. R. and Lange, K.},
+journal = {Journal of Computational and Graphical Statistics},
+number = {1},
+pages = {60-77},
+title = {Quantile regression via an MM algorithm},
+volume = {9},
+year = {2000},
+}
+
+@article{hl02,
+author = {D. R. Hunter and K. Lange},
+journal = {Inst. Stat},
+pages = {155},
+title = {Computing estimates in the proportional odds model, Ann},
+volume = {54},
+year = {2002},
+unidentified = {Math. –168},
+}
+
+@article{sw02,
+author = {Stock, J. H. and Watson, M. W.},
+journal = {Journal of the American Statistical Association},
+pages = {460},
+title = {Forecasting Using Principal Components From a Large Number of Predictors},
+volume = {97},
+year = {2002},
+unidentified = {1167�C1179},
+}
+
+@article{hl02,
+author = {D. R. Hunter and K. Lange},
+journal = {Inst. Stat},
+pages = {155},
+title = {Computing estimates in the proportional odds model, Ann},
+volume = {54},
+year = {2002},
+unidentified = {Math. –168},
+}
+
+@article{hl02,
+author = {Hunter, D. R. and Lange, K.},
+journal = {Annals of the Institute of Statistical Mathematics},
+number = {1},
+pages = {155-168},
+title = {Computing estimates in the proportional odds model},
+volume = {54},
+year = {2002},
+}
+
+@article{h04,
+author = {Hunter, D. R.},
+journal = {The annals of statistics},
+number = {1},
+pages = {384-406},
+title = {MM algorithms for generalized Bradley-Terry models},
+volume = {32},
+year = {2004},
+}
+
+@article{hl02,
+author = {Hunter, D. R. and Li, R.},
+journal = {Dept. of Statistics, Pennsylvania State University},
+title = {A Connection Between Variable Selection and EM-Type Algorithms},
+volume = {201},
+year = {2002},
+}
+
+@article{hl05,
+author = {Hunter, D. R. and Li, R.},
+journal = {Annals of statistics},
+number = {4},
+pages = {1617},
+title = {Variable selection using MM algorithms},
+volume = {33},
+year = {2005},
+}
+
+@article{n16,
+author = {Nguyen, H. D.},
+journal = {arXiv：1611.03969},
+title = {An Introduction to MM Algorithms for Machine Learning and Statistical.},
+year = {2016},
+}
+
+@article{sl02,
+author = {Sabatti, C. and Lange, K.},
+journal = {Proceedings of the IEEE},
+number = {11},
+pages = {1803-1810},
+title = {Genomewide motif identification using a dictionary model},
+volume = {90},
+year = {2002},
+}
+
